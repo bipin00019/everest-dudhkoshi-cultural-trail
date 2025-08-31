@@ -374,19 +374,6 @@ const ContactPage = () => {
                 </div>
               </button>
             </div>
-
-            {/* Instructions for EmailJS Setup */}
-            <div className="mt-6 p-4 bg-blue-900/20 border border-blue-800 rounded-lg">
-              <h3 className="text-sm font-semibold text-blue-300 mb-2">📧 EmailJS Setup Guide:</h3>
-              <div className="text-xs text-blue-200 space-y-1">
-                <p>1. Sign up at emailjs.com and create a service</p>
-                <p>2. Connect your Gmail account</p>
-                <p>3. Create a template with variables: from_name, from_email, message</p>
-                <p>4. Set recipient to: ito.mapyadodhkoshimun@gmail.com</p>
-                <p>5. Get your Service ID, Template ID, and Public Key</p>
-                <p>6. Replace the commented code with your credentials</p>
-              </div>
-            </div>
           </div>
 
           {/* Contact Information */}

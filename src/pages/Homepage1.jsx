@@ -212,7 +212,9 @@ const Homepage1 = () => {
             </div>
             <div className="flex items-center gap-2 bg-black/20 px-3 py-1 rounded-full backdrop-blur-sm">
               <Phone className="w-4 h-4" />
-              <span>+977-123-456-789</span>
+              <span>+977-9852827333
+              
+              </span>
             </div>
           </div>
         </div>

@@ -388,8 +388,8 @@ const ContactPage = () => {
                   </div>
                   <div className="min-w-0 flex-1">
                     <h3 className="font-semibold text-white mb-1">Phone</h3>
-                    <p className="text-gray-300">+977-123-456-789</p>
-                    <p className="text-gray-300">+977-987-654-321</p>
+                    <p className="text-gray-300">+977-9852827333</p>
+                    <p className="text-gray-300">+977-9860875856</p>
                   </div>
                 </div>
 

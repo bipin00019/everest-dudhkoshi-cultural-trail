@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Home from '../pages/Home'
 import About from '../pages/About'
-import { PATHS } from '../constants/paths'
+import { PATHS } from '../constants/PATHS'
 
 export default function AppRoutes() {
   return (

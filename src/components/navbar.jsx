@@ -18,7 +18,7 @@
 
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import { PATHS } from "../constants/paths";
+import { PATHS } from "../constants/PATHS";
 
 const links = [
   { label: "Home", to: PATHS.HOME },
